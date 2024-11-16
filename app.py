@@ -12,7 +12,7 @@ st.set_page_config(
 )
 
 
-genai.configure(api_key="AIzaSyDIya16Vsts7Lep1aUAVIdqS4vDvdLGmFI")
+genai.configure(api_key="AIzaSyDIya16Vsts7Lep1mFI")
 model = genai.GenerativeModel('gemini-pro')
 
 
