@@ -13,7 +13,7 @@ st.set_page_config(
 
 #AIzaSyDIya16Vsts7Lep1mFI
 genai.configure(api_key="AIzaSyDSxWZwBWei9FENO6JivrMvQnobM--7DrA")
-model = genai.GenerativeModel('gemini-pro')
+model = genai.GenerativeModel('gemini-1.5-pro')
 
 
 def role_to_streamlit(role):
