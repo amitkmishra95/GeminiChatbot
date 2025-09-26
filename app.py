@@ -12,7 +12,7 @@ st.set_page_config(
 )
 
 #AIzaSyDIya16Vsts7Lep1mFI
-genai.configure(api_key="AIzaSyDSxWZwBWei9FENO6JivrMvQnobM--7DrA")
+genai.configure(api_key="AIzaSyD611Pm2VYTc6XUoKre1mfcOUhb06zfdD8")
 model = genai.GenerativeModel('gemini-1.5-flash')
 
 
