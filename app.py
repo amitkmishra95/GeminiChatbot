@@ -11,8 +11,8 @@ st.set_page_config(
     layout="centered",  
 )
 
-
-genai.configure(api_key="AIzaSyDIya16Vsts7Lep1mFI")
+#AIzaSyDIya16Vsts7Lep1mFI
+genai.configure(api_key="AIzaSyDSxWZwBWei9FENO6JivrMvQnobM--7DrA")
 model = genai.GenerativeModel('gemini-pro')
 
 
